@@ -1,2 +1,2 @@
-flask
-yt-dlp
+gunicorn==25.3.0
+packaging==26.2
